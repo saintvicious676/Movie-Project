@@ -1,3 +1,5 @@
+#There is a seperate ratings data set that needs to be downloaded in order for this to work.  The dataset was too large to upload to github. You can download the ratings data set here https://grouplens.org/datasets/movielens/.
+
 # 🎬 Movie Recommendation System  
 
 ## Project Overview
